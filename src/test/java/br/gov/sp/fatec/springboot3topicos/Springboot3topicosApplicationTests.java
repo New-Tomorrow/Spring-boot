@@ -1,10 +1,10 @@
-package br.gov.sp.fatec.projetospring20231;
+package br.gov.sp.fatec.springboot3topicos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjetoSpring20231ApplicationTests {
+class Springboot3topicosApplicationTests {
 
 	@Test
 	void contextLoads() {
